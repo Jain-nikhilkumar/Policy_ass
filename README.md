@@ -9,7 +9,7 @@ Welcome to the Sentiment Analysis project! This project leverages multiple machi
 - **Objective**: Develop a sentiment analysis model to classify movie reviews as positive or negative.
 - **Dataset**: IMDb movie reviews.
 - **Frameworks**: TensorFlow, PyTorch, scikit-learn.
-- 
+  
 ## 🚀 Project Overview
 
 This project includes:
@@ -19,6 +19,8 @@ This project includes:
 - Evaluation and comparison of model performance
 - Deployment using Gradio for interactive predictions
 
+## Model Weights and Data 📂
+You can access the model weights and dataset used in this project through the following Google Drive folder: Model Weights and Data[https://drive.google.com/drive/folders/1ukXTSpW3Dp2oS20pGEXms2_TESwAjd4z].
 ## 📋 Table of Contents
 
 1. [Project Setup](#project-setup)
