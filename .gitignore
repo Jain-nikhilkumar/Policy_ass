@@ -1,0 +1,14 @@
+# Ignore Python pickle files
+*.pkl
+
+# Ignore HDF5 model files
+*.h5
+
+# Ignore Safetensor files
+*.safetensors
+
+# Ignore other unnecessary files
+*.pyc
+__pycache__/
+.DS_Store
+.env
